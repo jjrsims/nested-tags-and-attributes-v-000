@@ -34,8 +34,7 @@ Tags can be nested as demonstrated in the navigation snippet below.
 ```
 
 Keeping your HTML well indented so that every tag and "level" of nesting is
-aligned will make your code easier to read and maintain. Its aesthetics, how it
-looks, is conveying its structure.
+aligned will make your code easier to read and maintain. Its aesthetics, is conveying its structure.
 
 ### HTML Attributes
 
